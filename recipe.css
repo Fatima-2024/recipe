@@ -1,0 +1,35 @@
+h1 {
+    background-color: aqua;
+    text-align: center;
+    padding: auto;
+}
+
+.my-recipe {
+    color: black;
+    font-size: 40px;
+}
+
+.pancake {
+    background-color: beige;
+    color: brown;
+    text-align: left;
+    display: flex;
+    gap: 100px;
+}
+
+.photo {
+    padding: 32px;
+    object-fit: cover;
+}
+
+.procedure {
+    background-color: beige;
+    color: brown;
+    text-align: left
+}
+
+footer {
+    background-color: aqua;
+    text-align: center;
+    padding: auto;
+}
